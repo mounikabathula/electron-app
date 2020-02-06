@@ -1,7 +1,8 @@
 {
   "name": "electron-autoupdate",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "electron update",
+  "homepage": "https://localhost",
   "main": "main.js",
   "scripts": {
     "start":"electron .",
